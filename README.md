@@ -1,4 +1,4 @@
 # newsapp
 
-React Native News app
-test
+React Native News app (Malaysia API)
+
